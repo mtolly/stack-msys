@@ -5,6 +5,6 @@ extra-deps: []
 flags: {}
 extra-package-dbs: []
 extra-lib-dirs:
-- /foo/bar/baz
+- /mingw32/lib
 extra-include-dirs:
-- /dir/not/exist
+- /mingw32/include
